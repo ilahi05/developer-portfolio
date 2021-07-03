@@ -1,0 +1,31 @@
+body{font-family: 'Tourney', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.gu{
+    color: darkred;
+}
+section{
+    display: flex;
+}
+.dhon{
+    width: 50%;
+    padding-left: 2%;
+}
+.dhon img{
+ width: 80%;
+ padding-left: 15%;
+}
+.nuds-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,black);
+    color: grey;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.kala{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
